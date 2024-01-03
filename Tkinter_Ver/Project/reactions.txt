@@ -1,0 +1,60 @@
+Alkane;Dihalide;Alkyl Hailde;sunlight,\nfree radical mechanism
+Alkane;SO2Cl2;Alkyl Chloride;Solvent-CCl4 or CH2Cl2
+Alkene;Dihalide;Alkyl Halide; vic-dihalide formed
+Alkene;Halogen Acid;Alkyl Halide; Markovnikov Addition
+Alkene;HOX;Halohydrin
+Alkene(Substituted);Dihalide;Alkyl Halide;Alpha-Halogenation\nsunlight\nfree radical mechanism
+Alkene(Substituted);NBS;Alkyl Halide; Alpha-Halogenation
+Alkyne;Dihalide;Alkyl Halide; tetrahalide formed
+Alkyl Halide;NaI;Alkyl Iodide; Finklestein Reaction\nSolvent-Acetone
+Alkyl Halide;AgF;Alkyl Fluoride; Swartz Reaction\nSolvent-DMSO/DMF
+Alcohol;Halogen Acid;Alkyl Halide;SN1 or SN2
+Alcohol;PX3;Alkyl Halide; +H3PO2\nSN2
+Alcohol;PX5;Alkyl Halide;+POX3\nSN2
+Alcohol;SOX2;Alkyl Halide; SN2 with pyridine\nSNI without
+Ketone;PX5;Alkyl Halide; +POX3\ngem dihalide
+Ketone;SF4;Alkyl Halide;+SOF2\ngem dihalide
+RCOOAg;Br2;RBr;Solvent-CCl4\nDecarboxylation
+Alkyl Halide;Na;Alkane;Wurtz Reaction\nCoupling reaction\nDry ether
+Alkyl Halide;R2CuLi-Gilman's Reagent;Alkane;Corey-House Synthesis
+Alkyl Halide;Zn;Alkane;Frankland Reaction\nDry Ether\nCoupling Reaction
+Alkyl Halide;Grignard Reagent;Alkane;SN2
+Alkyl Halide;NH3;Amine;primary/methyl halide\ncan continue to give\nquaternary ammonium salt
+Alkyl Halide;KCN;Cyanide;-
+Alkyl Halide;AgCN;Isocyanide;-
+Alkyl Halide;KNO2;Alkyl Nitrite;-
+Alkyl Halide;AgNO2;Nitro Alkane;-
+Alkyl Halide;Dihydrogen;Alkane;Ni/Pd/Pt catalyst\nhigh temperature/pressure\nsyn addition
+Alkyl Halide;Red P,HI;Alkane;-
+Alcohol;RedP,HI;Alkane;-
+Aldehyde;RedP,HI;Alkane;-
+Carboxylic Acid;RedP,HI,Alkane;-
+Alkyl Halide;HCl;Alkane;in presence of Sn/Zn\nZn-Cu+C2H5OH can also be used
+Alkyl Halide;LAH;Alkane;-
+Alkyl Halide;RONa;Ether;SN2\nonly primary alkyl halide
+Alcohol;Na;RONa;-
+Alkyl Halide;aqKOH;Alcohol;SN2/SN1
+Alkyl Halide;alcKOH;Alkene;E2
+Alkyl Halide;Mg;Grignard Reagent;dry ether
+Grignard Reagent;H2O;Alkane;-
+Alcohol;Grignard Reagent;Alkane;-
+Grignard Reagent;NH3;Alkane;-
+Phenol;Grignard Reagent;Alkane;-
+Carboxylic Acid;Grignard Reagent;Alkane;-
+Aldehyde;Grignard Reagent;Alcohol;secondary product\ndry ether
+Ketone;Grignard Reagent;Alcohol;tertiary product\ndryether
+Epoxide;Grignard Reagent;Alcohol;primary product\ndry ether
+Acid Chloride;Grignard Reagent;Ketone; if excess grignard then\ntertiary alcohol\ndry ether
+Grignard Reagent;CO2;Carboxylic Acid;dry ether
+Nitrile;Grignard Reagent;Ketone;if excess grignard then\ntertiary alcohol\ndry ether
+Benzene;Dihalide;Aryl Halide;Fe/FeX3/AlX3
+Aniline;NaNO2,HCl;Diazonium Salt;0-5 C
+Diazonium Salt;Cu2X2;Aryl Halide;Sandmeyer Reaction\nSNAr
+Diazonium Salt;Cu+HX;Aryl Halide;Gattermann Reaction
+Diazonium Salt;KI;Aryl Iodide;-
+Diazonium Salt;HBF4;Aryl Fluoride;Balz Schiemann Reaction\nAsF6 can also be used
+Diazonium Salt;H3PO2;Benzene;-
+Aryl Halide;concHNO3+concH2SO4;Nitro Aryl Halide;para-major\northo-minor
+Aryl Halide;Br2;Bromo Aryl Halide; para-major\northo-minor
+Aryl Halide;Na;DiPhenyl;Fittig Reaction\nCoupling Reaction
+Aryl Iodide;Cu;DiPhenyl;Ullmann Reaction\nRed hot sealed\ncopper tube used
